@@ -111,3 +111,7 @@ venv.bak/
 /FineTuning
 /MiniGoogleNet
 /dogs_vs_cats
+/ResNet
+
+BreakingCaptchas/dataset/
+SmileDetection/dataset/
